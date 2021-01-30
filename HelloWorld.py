@@ -1,0 +1,1 @@
+print("Hello World!\nEstudos de POO em Python")
